@@ -109,6 +109,10 @@ nav a:hover {
 	display: none;
 }
 
+.about-wrapper, .contact-wrapper, .portfolio {
+	padding: 2em 0;
+}
+
 
 /*about*/
 
@@ -233,7 +237,7 @@ nav a:hover {
 
 .contact {
 	width: 85%;
-	margin: 3em auto 0 auto;
+	margin: 0 auto;
 	padding: 0 10px 20px 10px;
 	text-align: center;
 	max-width: 650px;
